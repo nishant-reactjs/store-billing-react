@@ -7,7 +7,7 @@ import { RenderButton } from '../../component/Button';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPrint } from '@fortawesome/fontawesome-free-solid';
 import moment from 'moment';
-import { retrieve_invoice } from '../../redux/actions/billing.action';
+// import { retrieve_invoice } from '../../redux/actions/billing.action';
 import { retrieve_orders } from '../../redux/actions/orders.action';
 
 const Invoice = () => {

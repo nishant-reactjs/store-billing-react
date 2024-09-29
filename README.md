@@ -1,4 +1,4 @@
-Live: [https://store-billing.vercel.app/](https://store-billing.vercel.app/)
+Live: https://store-billing.vercel.app/
 
 # Getting Started with Create React App
 
